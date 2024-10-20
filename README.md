@@ -42,4 +42,4 @@ To get started with Linguistic, follow these steps:
 
 4. Add the cloned repo in htdocs folder inside XAMPP folder.
 
-5. Open localhost/{folder_name}/ in browser.
+5. Open your web browser and go to `localhost/{folder_name}/`.
